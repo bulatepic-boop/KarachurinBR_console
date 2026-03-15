@@ -3,3 +3,4 @@ static public double Sqr(double X)
 {
     return X * X;
 }
+//solve task2
